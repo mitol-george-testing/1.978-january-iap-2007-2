@@ -1,0 +1,43 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Nanotechnology"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Microtechnology"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Engineering",
+      "Civil Engineering",
+      "Structural Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "95041ae9-ab5b-75af-f711-13fcd917f464"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "From Nano to Macro: Introduction to Atomistic Modeling Techniques",
+  "course_description": "The objective of this course is to introduce large-scale atomistic modeling techniques and highlight its importance for solving problems in modern engineering sciences. We demonstrate how atomistic modeling can be used to understand how materials fail under extreme loading, involving unfolding of proteins and propagation of cracks.\n\nThis course was featured in an MIT [Tech Talk article.](http://web.mit.edu/newsoffice/2007/atomistic.html)\n",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1.978",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
